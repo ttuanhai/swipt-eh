@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IEEE-copyrighted paper: download it yourself (see README)
+docs/paper.pdf
+
+# Per-seed training outputs (regenerate with train.py); keep summary figures only
+results/*/
